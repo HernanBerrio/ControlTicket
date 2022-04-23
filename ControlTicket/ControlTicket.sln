@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTicket", "ControlTicket\ControlTicket.csproj", "{1991A1D9-6E1F-4C64-AFA8-4471528D7BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1991A1D9-6E1F-4C64-AFA8-4471528D7BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1991A1D9-6E1F-4C64-AFA8-4471528D7BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1991A1D9-6E1F-4C64-AFA8-4471528D7BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1991A1D9-6E1F-4C64-AFA8-4471528D7BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953A1D57-B61A-4120-A370-A33E907C7D37}
+	EndGlobalSection
+EndGlobal
